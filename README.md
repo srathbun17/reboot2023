@@ -1,6 +1,6 @@
 # reboot2023
-First repository
+First repository for Reboot 1.0 in 2023
+Learning how to do things
 
-## My first joke on github
 
-Nacho cheese
+It is nacho cheese
